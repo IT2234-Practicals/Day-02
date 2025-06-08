@@ -14,3 +14,8 @@ The code showcases how to create and access JavaScript objects and arrays of obj
 
 ## reverse.js ##
 
+This code demonstrates how to reverse an array manually by popping elements from the original array and pushing them into a new one.
+
+![image](https://github.com/user-attachments/assets/11097dd5-feae-420c-96dd-cb8a4d2e76b7)
+
+## 
